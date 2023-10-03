@@ -27,6 +27,14 @@
   body: (_ (_) @context.end)
 ) @context
 
+(switch_statement
+  body: (_ (_) @context.end)
+) @context
+
+(case_statement
+  (compound_statement) @context.end
+) @context
+
 (struct_specifier
   body: (_ (_) @context.end)
 ) @context

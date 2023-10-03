@@ -72,5 +72,35 @@ int main(int arg1,
       // comment
     }
 
+    switch (arg1) {
+      case 0: {
+        switch (arg1) {
+          case 0:
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          // comment
+          break;
+        }
+      } break;
+      case 1:
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      // comment
+      break;
+    }
   }
 }
